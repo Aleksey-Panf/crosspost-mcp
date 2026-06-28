@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Custom MCP development
+    url: https://t.me/AlexAi14
+    about: For paid MCP server development, contact me on Telegram directly.
+  - name: General questions
+    url: https://github.com/Aleksey-Panf/crosspost-mcp/discussions
+    about: Use GitHub Discussions for general questions about usage.
