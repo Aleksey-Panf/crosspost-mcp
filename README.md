@@ -2,6 +2,7 @@
 
 **MCP server that lets AI agents cross-post content to Telegram, Discord, Mastodon, Bluesky, and Reddit — using free APIs only.**
 
+[![CI](https://github.com/Aleksey-Panf/crosspost-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Aleksey-Panf/crosspost-mcp/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-purple.svg)](https://modelcontextprotocol.io/)
