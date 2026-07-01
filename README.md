@@ -1,4 +1,5 @@
 # crosspost-mcp
+[![Glama score](https://glama.ai/mcp/servers/Aleksey-Panf/crosspost-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Aleksey-Panf/crosspost-mcp)
 
 **MCP server that lets AI agents cross-post content to Telegram, Discord, Mastodon, Bluesky, and Reddit — using free APIs only.**
 
